@@ -5,3 +5,5 @@
 *▲ sync product with category ,price, image*
 
 </div>
+
+✨ 
