@@ -1,0 +1,1 @@
+![sync product with category ,price, image](image.png)
